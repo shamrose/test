@@ -3,6 +3,7 @@ if hungry=="Yes":
     print("eat samosa")
     print("eat food")
     print("eat snacks")
+    print("eat fries")
 else:
     thirsty=input("Are you thirsty?")
     if thirsty=="Yes":
@@ -10,5 +11,3 @@ else:
         print("Drink Soda")
         print("Drink COla")
     print("Do your Homework")
-
-
