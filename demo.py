@@ -9,4 +9,6 @@ else:
         print("Drink Water")
         print("Drink Soda")
         print("Drink COla")
+    print("Do your Homework")
+
 
